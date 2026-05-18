@@ -63,7 +63,7 @@ Amazon-Sales-Dashboard/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/saniyasiddiqui7/Amazon-Sales-Dashboard.git
+   git clone https://github.com/saniyasiddiqui7/ecommerce_sales_dashboard.git
    ```
 
 2. Open `Sales_performance_dashboard.pbix` in Power BI Desktop.
